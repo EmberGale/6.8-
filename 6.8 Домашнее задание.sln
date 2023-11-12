@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание 1. Случайная матрица", "6.8 Домашнее задание\Задание 1. Случайная матрица.csproj", "{2AE5820A-5384-4AA7-A53B-3D617BD3CA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание 3. Игра «Жизнь» (выполните по желанию)", "Задание 3. Игра «Жизнь» (выполните по желанию)\Задание 3. Игра «Жизнь» (выполните по желанию).csproj", "{86FF3128-01BA-47A6-BDF4-AB76816EDA3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE5820A-5384-4AA7-A53B-3D617BD3CA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE5820A-5384-4AA7-A53B-3D617BD3CA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE5820A-5384-4AA7-A53B-3D617BD3CA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE5820A-5384-4AA7-A53B-3D617BD3CA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FF3128-01BA-47A6-BDF4-AB76816EDA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FF3128-01BA-47A6-BDF4-AB76816EDA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FF3128-01BA-47A6-BDF4-AB76816EDA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FF3128-01BA-47A6-BDF4-AB76816EDA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF056B5-1162-4FC9-9D6F-F30CD8934086}
+	EndGlobalSection
+EndGlobal
